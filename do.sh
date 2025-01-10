@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 # Do - The Simplest Build Tool on Earth.
 # Documentation and examples see https://github.com/8gears/do
 
